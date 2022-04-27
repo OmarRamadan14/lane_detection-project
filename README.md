@@ -20,6 +20,6 @@ The goals / steps of this project are the following:
 
 
 ### Contributures:
-* Ahmed Mohammed Ahmed Abass    -    1700159
-* Amr Hassan Khorshed           -    1700924
-* Omar Tarek Youssef Kamal      -    1700880 
+* Amr Mohamed Mohamed Ibrahim    -    1700949
+* Ismail Yasser Adel             -    1700264
+* Omar Ramadan Seddik            -    1700869
